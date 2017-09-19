@@ -3,6 +3,7 @@
 	<classpathentry kind="src" path="Lab2"/>
 	<classpathentry kind="src" path="Notebook"/>
 	<classpathentry kind="src" path="Zodiac"/>
+	<classpathentry kind="src" path="Lab3"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
